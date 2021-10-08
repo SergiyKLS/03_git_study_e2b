@@ -11,7 +11,11 @@ body {
 }
 
 body div {
+<<<<<<< HEAD
   font-size: 20px;
+=======
+  font-size: 21px;
+>>>>>>> 2477571c3a18ffab766f8543ec40982d08c65425
 }
 
 .red {
